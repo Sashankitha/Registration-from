@@ -7,4 +7,4 @@
 <h2>
   The final output of the Registration form is:-
 </h2>
-<img src = "form.png">
+<img src = "fimage.jpg">
